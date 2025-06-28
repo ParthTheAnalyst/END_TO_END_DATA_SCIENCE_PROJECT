@@ -203,6 +203,21 @@ These metrics indicate a reasonably good fit, with an R-squared of 0.8876 sugges
 ```
 
 ---
+![Image](https://github.com/user-attachments/assets/a9cfcaba-b448-42e9-a669-e42fc2c77ab8)
+![Image](https://github.com/user-attachments/assets/f8435af6-26bd-43e1-b142-295a47b10cb5)
+![Image](https://github.com/user-attachments/assets/d8834b21-f5d7-42a5-a807-2a37718f1643)
+![Image](https://github.com/user-attachments/assets/fa243947-ee8e-4e00-b693-97be13b2ae7f)
+![Image](https://github.com/user-attachments/assets/98f641cb-81d4-4fda-84d3-dca2ec3cda82)
+![Image](https://github.com/user-attachments/assets/56f7d2e2-aaf3-4626-b029-7e38277800b2)
+![Image](https://github.com/user-attachments/assets/2e0fc00b-e66f-4ae3-b677-725f4e6b4d31)
+![Image](https://github.com/user-attachments/assets/57fbbfa4-8192-4b18-bb79-4731e06da825)
+![Image](https://github.com/user-attachments/assets/204136ff-afd5-484d-865e-5fb9f1d2f001)
+![Image](https://github.com/user-attachments/assets/6ece8dda-f999-4d7d-8b28-61c3f900a37b)
+![Image](https://github.com/user-attachments/assets/4c2c4c9b-3a7e-4072-8a47-41d82595cd06)
+![Image](https://github.com/user-attachments/assets/e0b77b0a-b864-4031-a159-29519097eaf2)
+![Image](https://github.com/user-attachments/assets/1c910da8-c591-4ee4-842e-b04ba87f8499)
+![Image](https://github.com/user-attachments/assets/9269445c-7a8d-4a58-8efe-8e4f953eb875)
+
 
 ## 📚 References
 
